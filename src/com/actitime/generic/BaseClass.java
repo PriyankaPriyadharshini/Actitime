@@ -34,7 +34,6 @@ public class BaseClass {
 		/*Reporter.log("logout",true);
 		EnterTimeTrackPage e=new EnterTimeTrackPage(driver);
 		e.setLogout();*/
-		
-		
 	}
+	
 }
